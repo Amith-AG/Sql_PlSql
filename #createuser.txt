@@ -1,0 +1,5 @@
+create user amithag identified by tiger;
+grant connect to amithag;
+grant create session to  amithag;
+grant create table to amithag;
+grant unlimited tablespace to amithag;
